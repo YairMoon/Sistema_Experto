@@ -1,6 +1,6 @@
 # Sistema_Experto
 
-Qué, Para qué y Cómo**
+**Qué, Para qué y Cómo**
 
 ### Introducción
 
