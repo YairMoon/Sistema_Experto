@@ -51,5 +51,4 @@ Los sistemas expertos son una rama de la inteligencia artificial cuyo objetivo e
 ### Conclusión
 
 Un sistema experto es un programa capaz de emular el razonamiento humano en la resolución de problemas específicos. Su funcionamiento se basa en cuatro etapas: adquisición, representación, tratamiento y utilización del conocimiento. Gracias a esta estructura, el sistema puede capturar información de expertos, organizarla en bases de datos, procesarla mediante un motor de inferencia y finalmente presentar soluciones claras al usuario. De esta manera, los sistemas expertos se convierten en herramientas útiles para apoyar la toma de decisiones en diferentes áreas como medicina, ingeniería, finanzas y diagnóstico de fallas.
-
 ---
